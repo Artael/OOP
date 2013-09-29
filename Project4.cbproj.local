@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013.09.27 15:20:17.897.cpp,C:\Users\Artem\Documents\RAD Studio\Projects\File1.cpp=C:\Users\Artem\Documents\RAD Studio\Projects\LZ.cpp</Transaction>
+    <Transaction>2013.09.27 15:20:20.877.cbproj,C:\Users\Artem\Documents\RAD Studio\Projects\Project4.cbproj=C:\Users\Artem\Documents\RAD Studio\Projects\Project4.cbproj</Transaction>
+    <Transaction>2013.09.29 18:47:53.707.cbproj,C:\Users\Artem\Documents\RAD Studio\Projects\Project4.cbproj=D:\Work\OOP\Project4.cbproj</Transaction>
+    <Transaction>2013.09.29 18:48:09.880.cpp,C:\Users\Artem\Documents\RAD Studio\Projects\LZ.cpp=D:\Work\OOP\LZ.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
